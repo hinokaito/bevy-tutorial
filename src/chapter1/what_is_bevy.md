@@ -22,3 +22,13 @@ cargo add bevy
 ![alt text](../images/sample1.gif)
 ![alt text](../images/sample2.gif)
 ![alt text](../images/sample3.gif)
+
+## 以下使用するリソースのライセンス明示です
+Assets & Licenses
+Some textures used in this project are provided by Solar System Scope.
+
+Source: Solar System Scope
+https://www.solarsystemscope.com/textures/
+License: CC BY 4.0
+https://creativecommons.org/licenses/by/4.0/
+Modifications: Textures may have been resized or otherwise modified for use in this project.
