@@ -17,3 +17,7 @@
   - [動的なデータ表示をしてみよう](./chapter3/dynamic_display.md)
   - [画像を使用してみよう](./chapter3/image_usage.md)
 - [recreate the solar system](./chapter4/intro.md)
+  - [位置関係を調査しよう](./chapter4/research.md)
+  - [純粋に実装してみよう](./chapter4/impl1.md)
+  - [カメラをワープできるようにしよう](./chapter4/impl2.md)
+  - [完成](./chapter4/impl3.md)

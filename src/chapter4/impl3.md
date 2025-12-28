@@ -537,5 +537,5 @@ fn get_planet_position(planet: Planet) -> Vec3 {
 ![alt text](image-11.png)
 
 ## ソースコード
-整理したものをリポジトリにしました
+整理・修正・調整したものをリポジトリにしました
 [solar-system-simulator](https://github.com/hinokaito/solar-system-simulator)
